@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-30T14:24:00 IST" name="Default suite" finished-at="2022-06-30T14:24:14 IST" duration-ms="14038">
+    <groups>
+    </groups>
+    <test started-at="2022-06-30T14:24:00 IST" name="Default test" finished-at="2022-06-30T14:24:14 IST" duration-ms="14038">
+      <class name="test.ZerodhaHomePageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.ZerodhaHomePageTest@437da279]" started-at="2022-06-30T14:24:00 IST" name="openBrowser" finished-at="2022-06-30T14:24:08 IST" duration-ms="7989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="homePageTest()[pri:0, instance:test.ZerodhaHomePageTest@437da279]" started-at="2022-06-30T14:24:08 IST" name="homePageTest" finished-at="2022-06-30T14:24:14 IST" duration-ms="6010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+      </class> <!-- test.ZerodhaHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
